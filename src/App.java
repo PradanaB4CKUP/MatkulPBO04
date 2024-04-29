@@ -3,6 +3,7 @@ public class App {
         DataMahasiswa Mhs = new DataMahasiswa();
         Mhs.InputData();
         Mhs.getProdi();
+        Mhs.getThnMasuk();
         Mhs.Cetak();
     }
 }
